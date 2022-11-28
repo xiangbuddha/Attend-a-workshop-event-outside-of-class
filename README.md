@@ -1,40 +1,18 @@
-# assignments
+The recap can take the form of a written essay, a video, a screen recorded demo, an infographic, blog post, or just about any other medium you prefer. In your recap, briefly explain (in no more than 1250 words/ 10 minutes):
 
-This repository contains the materials you need in order to turn in the Group Project assignments and Reflections assignments.
+1. The name, date, topic, organizer, and other basic details of the workshop.
+The workshop I joined is Black Beyond Data Reading Group on November 18.The topic of this workshop was The relationship between women's dress and fashion magazines in the black community. In this lecture, Prof.Autumn Womack presents data analysis of the development of black aesthetics between the 1880s and 1930s and the number of different types of fashion magazines sold in the black community.She proposes that in the early 1980s, the differences between the aesthetics of black women and white women were vast compared to today. Influenced by Islam, black Muslim women preferred to wear the hijab as well as the burka to follow the rules of their religion. The black female (especially Muslim) community was more conservative than the white women who pursued bold and enthusiastic colors and styles in the 1920s - as a result, white fashion magazines sold very little in the black community. And, she suggests, there is a correlation between black women's dress and their income. As black women's incomes increased in the 21st century, black women's aesthetics began to move away from conservative styles and influenced the style of some white women.
 
-## Getting started
+2. The structure of the workshop: how was it organized (thematically, step-by-step, etc.)? Give details about any processes, lectures, or preparatory work that made up the workshop.
+This workshop is conducted on zoom and is a repeat workshop. But the content is not repetitive each week. The topic of the workshop I attended was a discussion on black women's beauty and clothing.The workshop starts at 12:00 noon and ends at 1:00. Before the workshop starts, we need to read Dr. Womack's book *The Matter of Black Living: The Aesthetic Experiment of Racial Data, 1880-1930*.The workshop reminds us that we will focus on the introductory section.The presentation will last about 45 minutes and we will have 15 minutes for questions after the presentation. The discussion between the audience is entered in text form in the dialog box of zoom.Before the workshop starts, we can find out about the next workshop from the poster:[title]([https://www.example.com](https://lifexcode.substack.com/p/1118-dr-autumn-womack-joins-the-blackbeyonddata))
+3. How was your experience? Did you learn something new? Were there things that frustrated you, and if so, how did you overcome them (or how might they be overcome next time)?
+It was the first time that I had focused my attention on the field of black women, and I found that I was extremely new. It was fascinating to gain an understanding of the connections between religion and the clothing worn by Black female Muslims, as well as traditional Muslim women from the Middle East, as well as the variations and parallels that exist between the two. One of the points that struck me was the relationship between female Black Muslim clothing and politics. Acceptance and appreciation of Islam are possible within secular societies as well, despite the fact that secular societies may modify the fashion and aesthetic components of Islam. When contemporary politics and religion come into contact with one another, the female hijab frequently becomes a distinguishing feature of political movements. One example of this is when the Muslim female hijab was replaced by the American flag, and another is the controversy over feminism and freedom that followed the question of whether women should wear the hijab.
+4. Did you come away with an example/prototype/work-in-progress? Include a link or screenshot if possible.
+Unfortunately I didn't.
+6. What advice would you give to someone else who might be interested in learning more about this same topic?
+My suggestion is that in learning about the history of black Muslim women, we don't need to be particularly concerned about whether certain Muslim women actually dress as the Qur'an requires. In other words, instead of symbolizing the Muslim community, we need to understand that whether these women pass on secularized or religious clothing, they are Muslims themselves.
 
-Navigate to https://github.com/HIST5152/assignments.
 
-Make sure you are logged into GitHub. It will show a small icon at the top right if you are logged in!
-
-Create a repository from this template. [(GitHub documentation here)](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
-- Click the green "Use this template" button
-- If you have more than one GitHub username, choose which username you would like to be the new repository's owner.
-- Rename the repository if you want to, and add an optional description.
-- Choose for the repo to be publicly visible.
-- Click "create repository from template."
-
-## Editing the documents
-The folders in this repository already have template documents in them. These templates are editable and will be how/where you submit your assignments.
-
-The editable documents are written in Markdown format (.md). Markdown works just like a normal text editor, but formatting (like bold, italic, bullet points, etc.) is slightly different. [(Here is a cheatsheet for how to do text formatting with Markdown if you're curious)](https://www.markdownguide.org/cheat-sheet/)
-
-- Click on the assignment you wish to submit.
-- Click the pencil icon at the top right of the window for that assignment's template.
-- Follow the directions and guidelines for the individual assignment.
-- When you're ready to submit the assignment
-  - Type or paste any text into the designated part of the template document.
-  - Paste any URL links into the designated part of the template document.
-  - If you have an image or other file to upload from your computer, drag and drop it into the document. GitHub will turn it into a link, but don't panic! You can click the "Preview" tab at any time without losing your changes if you want to make sure everything looks ok.
-  
- ## Submitting the documents
-GitHub is a version control system, which means it will allow you to save multiple versions of a single document and be able to track the changes made each time. That makes it very convenient to submit assignments!
- **The next steps are very important!!**
- "Commit" your changes at the bottom of the page you are editing. 
- - Type "DONE" in the bigger text box (This will let me know that you are finished with the assignment). Optionally, you can type an extended description in the box.
- - Make sure the radio button is selected that says "Commit directly to the main branch."
- - Click the green button that says "Commit changes." **GitHub does not autosave!!! Don't forget to do this!!!**
 
  
 
